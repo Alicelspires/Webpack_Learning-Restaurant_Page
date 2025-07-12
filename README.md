@@ -1,2 +1,2 @@
 # Webpack_Learning-Restaurant_Page
-Odin's Table Page is a modular homepage project. It demonstrates best practices in clean code architecture, dynamic DOM manipulation, and tab-based navigation. Built with Webpack and responsive CSS.
+Odin Restaurant Page is a modular homepage project developed as part of The Odin Project's Full Stack JavaScript curriculum. It demonstrates best practices in clean code architecture, dynamic DOM manipulation, and tab-based navigation. Built with Webpack and styled using modern, responsive CSS techniques, this project showcases fundamental front-end skills in a real-world UI scenario
