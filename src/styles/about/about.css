@@ -1,0 +1,35 @@
+.about-us{
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap:20px;
+    margin:0px 20px 20px 20px;
+    justify-items: center;
+    align-items: center;
+}
+.about-us-text{
+    color:var(--font-white);
+    margin:10px;
+    max-width: 600px;
+}
+.about-us-text h2, 
+.about-us-text span h3,
+.about-us-text span h4{
+    font-family: 'Playfair Display', serif;
+    margin:10px 0px;
+}
+.about-us-text p{
+    line-height: 22px;
+}
+.img-about-us{
+    display:flex;
+    gap:20px;
+}
+.img-about-us img{
+    width:150px;
+    object-fit: cover;
+    border-radius: 5px;
+    aspect-ratio: 1/2.8;
+}
+.img-about-us img:nth-child(2){
+    transform: translateY(60px);
+}

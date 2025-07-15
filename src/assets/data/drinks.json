@@ -1,0 +1,138 @@
+{
+  "House Wines": [
+    {
+      "name": "Red House Wine",
+      "description": "A classic red blend with rich fruit flavors.",
+      "glass": 6.00,
+      "bottle": 25.00
+    },
+    {
+      "name": "White House Wine",
+      "description": "A crisp and refreshing white blend with citrus notes.",
+      "glass": 6.00,
+      "bottle": 25.00
+    },
+    {
+      "name": "Rosé House Wine",
+      "description": "Light and fruity with refreshing strawberry hints.",
+      "glass": 6.00,
+      "bottle": 25.00
+    }
+  ],
+  "Red Wines": [
+    {
+      "name": "Cabernet Sauvignon",
+      "description": "Full-bodied with black fruit and oak undertones.",
+      "glass": 8.00,
+      "bottle": 35.00
+    },
+    {
+      "name": "Merlot",
+      "description": "Soft and velvety, showcasing ripe red fruit flavors.",
+      "glass": 7.50,
+      "bottle": 30.00
+    },
+    {
+      "name": "Pinot Noir",
+      "description": "Light-bodied with cherry and earthy notes.",
+      "glass": 9.00,
+      "bottle": 38.00
+    },
+    {
+      "name": "Malbec",
+      "description": "Rich and robust with plum and blackberry flavors.",
+      "glass": 8.50,
+      "bottle": 36.00
+    },
+    {
+      "name": "Syrah",
+      "description": "Bold and spicy with dark berry and pepper notes.",
+      "glass": 8.50,
+      "bottle": 37.00
+    },
+    {
+      "name": "Zinfandel",
+      "description": "Jammy and rich with raspberry and spice hints.",
+      "glass": 8.00,
+      "bottle": 34.00
+    }
+  ],
+  "White Wines": [
+    {
+      "name": "Chardonnay",
+      "description": "Buttered toast and tropical fruit notes on this oaked delight.",
+      "glass": 8.50,
+      "bottle": 40.00
+    },
+    {
+      "name": "Sauvignon Blanc",
+      "description": "Crisp and zesty with citrus and green apple aromas.",
+      "glass": 7.00,
+      "bottle": 32.00
+    },
+    {
+      "name": "Riesling",
+      "description": "Sweet and floral with hints of peach and honey.",
+      "glass": 7.50,
+      "bottle": 33.00
+    },
+    {
+      "name": "Pinot Grigio",
+      "description": "Light and refreshing with crisp pear and melon notes.",
+      "glass": 7.00,
+      "bottle": 30.00
+    },
+    {
+      "name": "Gewürztraminer",
+      "description": "Aromatic with lychee, rose, and spice undertones.",
+      "glass": 8.00,
+      "bottle": 35.00
+    }
+  ],
+  "Rosé": [
+    {
+      "name": "Provence Rosé",
+      "description": "Dry and delicate with floral and berry undertones.",
+      "glass": 7.50,
+      "bottle": 35.00
+    },
+    {
+      "name": "California Rosé",
+      "description": "Bright and fruity with watermelon and raspberry flavors.",
+      "glass": 7.00,
+      "bottle": 32.00
+    },
+    {
+      "name": "Spanish Rosé",
+      "description": "Fresh and lively with hints of citrus and strawberry.",
+      "glass": 7.00,
+      "bottle": 30.00
+    }
+  ],
+  "Sparkling": [
+    {
+      "name": "Prosecco",
+      "description": "A bubbly Italian favorite with hints of apple and pear.",
+      "glass": 9.00,
+      "bottle": 42.00
+    },
+    {
+      "name": "Champagne Brut",
+      "description": "Classic French sparkling with notes of brioche and citrus.",
+      "glass": 15.00,
+      "bottle": 70.00
+    },
+    {
+      "name": "Cava",
+      "description": "Spanish sparkling wine with crisp green apple and lemon zest.",
+      "glass": 8.00,
+      "bottle": 38.00
+    },
+    {
+      "name": "Rosé Sparkling",
+      "description": "Elegant bubbles with fresh red fruit and floral aromas.",
+      "glass": 10.00,
+      "bottle": 45.00
+    }
+  ]
+}

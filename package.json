@@ -1,0 +1,29 @@
+{
+  "name": "webpack_learning-restaurant_page",
+  "version": "1.0.0",
+  "description": "Odin's Table Page is a modular homepage project. It demonstrates best practices in clean code architecture, dynamic DOM manipulation, and tab-based navigation. Built with Webpack and responsive CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alicelspires/Webpack_Learning-Restaurant_Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alicelspires/Webpack_Learning-Restaurant_Page/issues"
+  },
+  "homepage": "https://github.com/Alicelspires/Webpack_Learning-Restaurant_Page#readme",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "html-loader": "^5.1.0",
+    "html-webpack-plugin": "^5.6.3",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.100.1",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  }
+}
